@@ -1,24 +1,70 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Gary+👋;Junior+Cloud+Engineer+in+progress;Future+Cloud+Architect;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2FF4E9&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Gary+👋;Junior+Cloud+Engineer+in+Progress;Future+Cloud+Architect;Always+Learning+%26+Building">
   </a>
 </p>
 
-
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
 
-<br><br>
+- 💼 Currently working as a **Systems Engineer** at **Sothis (PLM Department)**.  
+- ☁️ My goal is to grow from **Junior Cloud Engineer → Cloud Engineer → Cloud Architect**.  
+- 🔧 Background in **Systems Administration, Virtualization (VMware), and Technical Support**.  
+- 🚀 Currently focused on learning **Cloud & DevOps tools** (AWS, Azure, Docker, Kubernetes, Terraform).  
+- 🎓 Studying **Computer Engineering** at Universitat Oberta de Catalunya.  
+- 📖 Certified in **Technical Support**, **VMware Virtualization**, and advancing with **Cloud & DevOps certifications**.  
+- 🌍 Multilingual: **Spanish (Native), Catalan (Professional), English (Professional)**.  
+- ✨ Always learning, always building, always moving forward.  
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
-<br>
+---
+
+## 🛠️ Skills & Tools  
+
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-231F20?style=for-the-badge&logo=vmware&logoColor=white)
+
+---
+
+## 🚀 Currently Learning  
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+## 🎓 Certifications  
+
+- ✅ Technical Support Associate Certificate (2024)  
+- ✅ VMware Virtualization Expert  
+- ✅ Technical Support Manager Certificate (2025)  
+- ✅ Apache 2.4 Web Server  
+- ✅ Backup Planning Fundamentals  
+- 🔜 AWS Certified Cloud Practitioner  
+- 🔜 Microsoft Azure Fundamentals (AZ-900)  
+- 🔜 Docker & Kubernetes Certifications  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanCloudOps&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCloudOps&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🤝 Connect with me  
+
+<a href="https://www.linkedin.com/in/gary-bryan-flores-peñafiel"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href="https://github.com/RyanCloudOps"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
