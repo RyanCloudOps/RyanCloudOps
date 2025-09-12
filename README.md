@@ -38,19 +38,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
----
-
-## 🎓 Certifications  
-
-- ✅ **2025 Technical Support Manager Certificate** – Siemens Digital Industries Software  
-- ✅ **2025 Technical Support Professional Certificate** – Siemens Digital Industries Software  
-- ✅ **2025 Technical Support Associate Certificate** – Siemens Digital Industries Software  
-- ✅ **2024 Technical Support Associate Certificate** – Siemens Digital Industries Software  
-- ✅ **VMware Virtualization Expert** – Nunsys    
-- ✅ **Servidor Web Apache 2.4** – OpenWebinars  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
