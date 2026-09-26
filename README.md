@@ -1,53 +1,52 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2FF4E9&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Gary+👋;Junior+Cloud+Engineer+in+Progress;Future+Cloud+Architect;Always+Learning+%26+Building">
-  </a>
+  <img src="assets/header.svg" width="100%" alt="Cloud Quest — Player 1: Gary Bryan F. P. — Systems Engineer, future Cloud Architect"/>
 </p>
-
-<br>
-
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
-
-- 💼 Currently working as a **Systems Engineer** at **Sothis (PLM Department)**.  
-- ☁️ My goal is to grow from **Junior Cloud Engineer → Cloud Engineer → Cloud Architect**.  
-- 🔧 Background in **Systems Administration, Virtualization (VMware), and Technical Support**.  
-- 🚀 Currently focused on learning **Cloud & DevOps tools** (AWS, Azure, Docker, Kubernetes, Terraform).  
-- 🎓 Studying **Computer Engineering** at Universitat Oberta de Catalunya.  
-- 📖 Certified in **Technical Support**, **VMware Virtualization**, and advancing with **Cloud & DevOps certifications**.  
-- 🌍 Multilingual: **Spanish (Native), Catalan (Professional), English (Professional)**.  
-- ✨ Always learning, always building, always moving forward.  
-
----
-
-## 🛠️ Skills & Tools  
-
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![VMware](https://img.shields.io/badge/VMware-231F20?style=for-the-badge&logo=vmware&logoColor=white)
-
----
-
-## 👨‍💻 Programming Languages  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanCloudOps&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCloudOps&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <a href="https://ryancloudops.github.io/Page/"><img src="assets/btn-portfolio.svg" height="44" alt="Play my portfolio"/></a>
+  &nbsp;
+  <a href="https://ryancloudops.github.io/Page/cv-gary-flores.pdf"><img src="assets/btn-cv.svg" height="44" alt="Download CV"/></a>
 </p>
 
----
+<img src="assets/title-player.svg" width="100%" alt="Player 1 — About me"/>
 
-## 🤝 Connect with me  
+<img src="assets/about.svg" width="100%" alt="About me: Systems Engineer at Sothis (PLM Department). Goal: Junior Cloud Engineer → Cloud Engineer → Cloud Architect. Background in Systems Administration, Virtualization (VMware) and Technical Support. Currently learning Cloud & DevOps tools (AWS, Azure, Docker, Kubernetes, Terraform). Studying Computer Engineering at Universitat Oberta de Catalunya. Certified in Technical Support and VMware Virtualization. Multilingual: Spanish, Catalan, English. Always learning, always building, always moving forward."/>
 
-<a href="https://www.linkedin.com/in/gary-bryan-flores-peñafiel"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href="https://github.com/RyanCloudOps"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<img src="assets/terminal.svg" width="100%" alt="Terminal: kubectl get pods -n career — junior-engineer Completed, cloud-engineer Running, cloud-architect Pending"/>
+
+<img src="assets/title-clouds.svg" width="100%" alt="Select your cloud"/>
+
+<img src="assets/cloud-select.svg" width="100%" alt="Azure (main), AWS (training), Google Cloud (on the roadmap)"/>
+
+<img src="assets/title-worlds.svg" width="100%" alt="World map — Experience"/>
+
+<img src="assets/worlds.svg" width="100%" alt="Clicc Help Desk 2021, ALTEN Software Developer 2022-23, Sothis Systems Engineer 2023-now, next: Cloud Engineer"/>
+
+<img src="assets/title-inventory.svg" width="100%" alt="Inventory — Skills & Tools"/>
+
+<img src="assets/inventory.svg" width="100%" alt="Equipped: Azure DevOps, VS Code, Git, GitHub, Windows Server, Linux, VMware, SQL Server, Tomcat, Apache, Python, Java, .NET, Bash. Training: Azure, AWS, GCP, Docker, Kubernetes, Terraform, GitHub Actions"/>
+
+<img src="assets/title-trophies.svg" width="100%" alt="Trophy room — Certifications"/>
+
+<img src="assets/trophies.svg" width="100%" alt="Technical Support Associate, Technical Support Manager, VMware Virtualization, Apache 2.4, Backup Planning. Next: AWS Cloud Practitioner, AZ-104, Terraform Associate"/>
+
+<img src="assets/title-levels.svg" width="100%" alt="Level map — Roadmap"/>
+
+<img src="assets/level-map.svg" width="100%" alt="Foundations (clear) → Cloud & IaC (in progress) → Platform & Ops → Boss: Cloud Architect"/>
+
+
+<br/>
+
+<p align="center">
+  <img src="assets/continue.svg" width="70%" alt="Continue?"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gary-bryan-flores-pe%C3%B1afiel"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:pflores.gary@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email"/></a>
+  &nbsp;
+  <a href="https://ryancloudops.github.io/Page/"><img src="assets/btn-portfolio.svg" height="44" alt="Play my portfolio"/></a>
+</p>
+
+<p align="center"><sub>GAME OVER? NEVER. · © RYANCLOUDOPS</sub></p>
