@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1152" height="350" viewBox="0 0 1152 350" role="img" aria-label="Tabla periódica de skills">
+<rect x="1" y="1" width="106" height="98" rx="12" fill="#141414" stroke="#9a9a9a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="11" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">01</text>
+<text x="11" y="64" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Az</text>
+<text x="11" y="86" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Azure</text>
+<rect x="117" y="1" width="106" height="98" rx="12" fill="#141414" stroke="#9a9a9a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="127" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">02</text>
+<text x="127" y="64" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Aw</text>
+<text x="127" y="86" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">AWS</text>
+<rect x="233" y="1" width="106" height="98" rx="12" fill="#141414" stroke="#9a9a9a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="243" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">03</text>
+<text x="243" y="64" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Gc</text>
+<text x="243" y="86" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Google Cloud</text>
+<rect x="349" y="1" width="106" height="98" rx="12" fill="#141414" stroke="#9a9a9a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="359" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">04</text>
+<text x="359" y="64" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Tf</text>
+<text x="359" y="86" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Terraform</text>
+<rect x="465" y="1" width="106" height="98" rx="12" fill="#141414" stroke="#9a9a9a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="475" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">05</text>
+<text x="475" y="64" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Dk</text>
+<text x="475" y="86" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Docker</text>
+<rect x="581" y="1" width="106" height="98" rx="12" fill="#141414" stroke="#9a9a9a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="591" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">06</text>
+<text x="591" y="64" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">K8</text>
+<text x="591" y="86" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Kubernetes</text>
+<rect x="697" y="1" width="106" height="98" rx="12" fill="#141414" stroke="#9a9a9a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="707" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">07</text>
+<text x="707" y="64" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Ga</text>
+<text x="707" y="86" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">GitHub Actions</text>
+<rect x="813" y="1" width="106" height="98" rx="12" fill="#141414" stroke="#9a9a9a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="823" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">08</text>
+<text x="823" y="64" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Gr</text>
+<text x="823" y="86" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Grafana</text>
+<rect x="929" y="1" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="939" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">09</text>
+<text x="939" y="64" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Do</text>
+<text x="939" y="86" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Azure DevOps</text>
+<rect x="1045" y="1" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="1055" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">10</text>
+<text x="1055" y="64" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Gt</text>
+<text x="1055" y="86" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Git</text>
+<rect x="1" y="109" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="11" y="130" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">11</text>
+<text x="11" y="172" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Gh</text>
+<text x="11" y="194" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">GitHub</text>
+<rect x="117" y="109" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="127" y="130" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">12</text>
+<text x="127" y="172" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Vs</text>
+<text x="127" y="194" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">VS Code</text>
+<rect x="233" y="109" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="243" y="130" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">13</text>
+<text x="243" y="172" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Ws</text>
+<text x="243" y="194" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Windows Server</text>
+<rect x="349" y="109" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="359" y="130" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">14</text>
+<text x="359" y="172" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Ad</text>
+<text x="359" y="194" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Active Directory</text>
+<rect x="465" y="109" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="475" y="130" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">15</text>
+<text x="475" y="172" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Lx</text>
+<text x="475" y="194" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Linux</text>
+<rect x="581" y="109" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="591" y="130" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">16</text>
+<text x="591" y="172" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Vm</text>
+<text x="591" y="194" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">VMware</text>
+<rect x="697" y="109" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="707" y="130" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">17</text>
+<text x="707" y="172" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">M3</text>
+<text x="707" y="194" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Microsoft 365</text>
+<rect x="813" y="109" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="823" y="130" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">18</text>
+<text x="823" y="172" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Tc</text>
+<text x="823" y="194" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Teamcenter</text>
+<rect x="929" y="109" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="939" y="130" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">19</text>
+<text x="939" y="172" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Tx</text>
+<text x="939" y="194" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Tecnomatix</text>
+<rect x="1045" y="109" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="1055" y="130" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">20</text>
+<text x="1055" y="172" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Tm</text>
+<text x="1055" y="194" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Apache Tomcat</text>
+<rect x="1" y="217" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="11" y="238" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">21</text>
+<text x="11" y="280" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Ap</text>
+<text x="11" y="302" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Apache HTTP</text>
+<rect x="117" y="217" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="127" y="238" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">22</text>
+<text x="127" y="280" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Py</text>
+<text x="127" y="302" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Python</text>
+<rect x="233" y="217" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="243" y="238" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">23</text>
+<text x="243" y="280" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Jv</text>
+<text x="243" y="302" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Java</text>
+<rect x="349" y="217" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="359" y="238" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">24</text>
+<text x="359" y="280" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Nt</text>
+<text x="359" y="302" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">.NET</text>
+<rect x="465" y="217" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="475" y="238" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">25</text>
+<text x="475" y="280" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Sh</text>
+<text x="475" y="302" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Bash / Batch</text>
+<rect x="581" y="217" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="591" y="238" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">26</text>
+<text x="591" y="280" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">St</text>
+<text x="591" y="302" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">SimTalk</text>
+<rect x="697" y="217" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="707" y="238" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">27</text>
+<text x="707" y="280" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Bs</text>
+<text x="707" y="302" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Bootstrap</text>
+<rect x="813" y="217" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="823" y="238" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">28</text>
+<text x="823" y="280" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Sq</text>
+<text x="823" y="302" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">SQL Server</text>
+<rect x="929" y="217" width="106" height="98" rx="12" fill="#141414" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="939" y="238" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#9a9a9a">29</text>
+<text x="939" y="280" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-1" fill="#f2f2f2">Or</text>
+<text x="939" y="302" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="12" fill="#f2f2f2">Oracle</text>
+<rect x="1" y="325" width="26" height="15" rx="4" fill="none" stroke="#f2f2f2" stroke-width="1.6"/>
+<text x="36" y="337" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#9a9a9a">en uso</text>
+<rect x="110" y="325" width="26" height="15" rx="4" fill="none" stroke="#9a9a9a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="145" y="337" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#9a9a9a">en entrenamiento</text>
+</svg>
