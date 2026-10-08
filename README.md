@@ -19,13 +19,13 @@
 
 ## Hola, soy Gary.
 
-**Systems Engineer** en el departamento PLM de **Sothis** (Barcelona). Vengo de la administración de sistemas, la virtualización y el soporte técnico, y ahora subo de nivel en **Cloud y DevOps** con el objetivo de llegar a **Cloud Architect**.
+**Systems Engineer** en **Sothis** (PLM, Barcelona). Instalo, migro y opero plataformas **Siemens Teamcenter y Tecnomatix** sobre Windows Server, Active Directory, Tomcat y SQL Server: más de 3 años en producción. Ahora llevo esa base de infraestructura a **Azure, AWS y DevOps**, rumbo a **Cloud Architect**.
 
 Estudio Ingeniería Informática en la Universitat Oberta de Catalunya y hablo español, catalán e inglés.
 
 > *Always learning, always building, always moving forward.*
 
-<sub>EN — Systems Engineer at Sothis (PLM), moving from sysadmin and virtualization into Cloud and DevOps. Goal: Cloud Architect. BSc Computer Engineering at UOC. Spanish, Catalan, English.</sub>
+<sub>EN — Systems Engineer at Sothis (PLM). I install, migrate and operate Siemens Teamcenter and Tecnomatix on Windows Server, Active Directory, Tomcat and SQL Server: 3+ years in production. Now taking that infrastructure foundation to Azure, AWS and DevOps, aiming for Cloud Architect. BSc Computer Engineering at UOC. Spanish, Catalan, English.</sub>
 
 ```text
 $ whoami
@@ -33,8 +33,8 @@ gary · systems engineer -> cloud architect
 
 $ kubectl get pods -n career
 NAME               READY   STATUS
-junior-engineer    1/1     Completed
-cloud-engineer     1/1     Running
+systems-engineer   1/1     Running
+cloud-engineer     0/1     ContainerCreating
 cloud-architect    0/1     Pending
 ```
 
