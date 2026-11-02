@@ -24,16 +24,9 @@ Estudio Ingeniería Informática en la Universitat Oberta de Catalunya y hablo e
 
 <sub>EN — Systems Engineer at Sothis (PLM). I install, migrate and operate Siemens Teamcenter and Tecnomatix on Windows Server, Active Directory, Tomcat and SQL Server: 3+ years in production. Now taking that infrastructure foundation to Azure, AWS and DevOps, aiming for Cloud Architect. BSc Computer Engineering at UOC. Spanish, Catalan, English.</sub>
 
-```text
-$ whoami
-gary · systems engineer -> cloud architect
-
-$ kubectl get pods -n career
-NAME               READY   STATUS
-systems-engineer   1/1     Running
-cloud-engineer     0/1     ContainerCreating
-cloud-architect    0/1     Pending
-```
+<p align="center">
+  <img src="assets/terminal.svg" width="720" alt="Terminal: $ whoami → gary · systems engineer -> cloud architect. $ kubectl get pods -n career → systems-engineer 1/1 Running · cloud-engineer 0/1 ContainerCreating · cloud-architect 0/1 Pending">
+</p>
 
 <br>
 
