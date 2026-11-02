@@ -1,14 +1,11 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img src="assets/header-light.svg" width="100%" alt="Gary Flores — Systems Engineer, futuro Cloud Architect">
-  </picture>
+  <img src="assets/header.svg" width="100%" alt="Gary Flores — Systems Engineer, futuro Cloud Architect">
 </p>
 
 <p align="center">
-  <a href="https://ryancloudops.github.io/Page/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" height="44" alt="Ver portfolio"></picture></a>
+  <a href="https://ryancloudops.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" height="44" alt="Ver portfolio"></picture></a>
   &nbsp;
-  <a href="https://ryancloudops.github.io/Page/cv-gary-flores.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-cv-dark.svg"><img src="assets/btn-cv-light.svg" height="44" alt="Descargar CV"></picture></a>
+  <a href="https://ryancloudops.github.io/cv-gary-flores.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-cv-dark.svg"><img src="assets/btn-cv-light.svg" height="44" alt="Descargar CV"></picture></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/gary-bryan-flores-pe%C3%B1afiel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" height="44" alt="LinkedIn"></picture></a>
   &nbsp;
@@ -55,11 +52,17 @@ cloud-architect    0/1     Pending
 
 ## Experiencia
 
-| Periodo | Empresa | Rol |
-|---|---|---|
-| **Jul 2023 – actualidad** | **Sothis** | Systems Engineer · Departamento PLM: Siemens Teamcenter y Tecnomatix (instalación, migración y mantenimiento), Azure DevOps, Tomcat, SQL Server, Windows Server / Active Directory |
-| Abr 2022 – Abr 2023 | Alten Spain | Desarrollador de software: SQL Server, Report Builder, .NET, Bootstrap, Git |
-| Jun 2021 – Nov 2021 | Clicc | Technical Support Help Desk: Microsoft 365, Active Directory, Windows y Linux |
+```text
+$ git log --oneline --graph
+* v3.0 (HEAD -> main)  Sothis · Systems Engineer, departamento PLM      Jul 2023 → hoy
+|   Siemens Teamcenter · Tecnomatix · Azure DevOps · Tomcat · SQL Server · Windows Server / AD
+|
+* v2.0                 Alten Spain · Desarrollador de software           Abr 2022 – Abr 2023
+|   SQL Server · Report Builder · .NET · Bootstrap · Git
+|
+* v1.0 (init)          Clicc · Technical Support Help Desk               Jun 2021 – Nov 2021
+    Microsoft 365 · Active Directory · Windows y Linux
+```
 
 **Formación:** Grado en Ingeniería Informática (UOC, 2024–2028) · CFGS DAM (2021–2023) · CFGS ASIR (2020–2022), Institut Joan d'Àustria.
 
@@ -83,6 +86,6 @@ cloud-architect    0/1     Pending
 
 ## Contacto
 
-¿Buscas a alguien para tu equipo de sistemas o cloud? Escríbeme por [email](mailto:pflores.gary@gmail.com), [LinkedIn](https://www.linkedin.com/in/gary-bryan-flores-pe%C3%B1afiel) o échale un vistazo a mi [portfolio](https://ryancloudops.github.io/Page/).
+¿Buscas a alguien para tu equipo de sistemas o cloud? Escríbeme por [email](mailto:pflores.gary@gmail.com), [LinkedIn](https://www.linkedin.com/in/gary-bryan-flores-pe%C3%B1afiel) o échale un vistazo a mi [portfolio](https://ryancloudops.github.io/).
 
 <p align="center"><sub>© RyanCloudOps</sub></p>

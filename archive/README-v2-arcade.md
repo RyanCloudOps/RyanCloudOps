@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://ryancloudops.github.io/Page/"><img src="assets/btn-portfolio.svg" height="44" alt="Play my portfolio"/></a>
+  <a href="https://ryancloudops.github.io/"><img src="assets/btn-portfolio.svg" height="44" alt="Play my portfolio"/></a>
   &nbsp;
-  <a href="https://ryancloudops.github.io/Page/cv-gary-flores.pdf"><img src="assets/btn-cv.svg" height="44" alt="Download CV"/></a>
+  <a href="https://ryancloudops.github.io/cv-gary-flores.pdf"><img src="assets/btn-cv.svg" height="44" alt="Download CV"/></a>
 </p>
 
 <img src="assets/about.svg" width="100%" alt="About me: Systems Engineer at Sothis (PLM Department). Goal: Junior Cloud Engineer → Cloud Engineer → Cloud Architect. Background in Systems Administration, Virtualization (VMware) and Technical Support. Currently learning Cloud & DevOps tools (AWS, Azure, Docker, Kubernetes, Terraform). Studying Computer Engineering at Universitat Oberta de Catalunya. Certified in Technical Support and VMware Virtualization. Multilingual: Spanish, Catalan, English. Always learning, always building, always moving forward."/>
@@ -33,7 +33,7 @@
   &nbsp;
   <a href="mailto:pflores.gary@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email"/></a>
   &nbsp;
-  <a href="https://ryancloudops.github.io/Page/"><img src="assets/btn-portfolio.svg" height="44" alt="Play my portfolio"/></a>
+  <a href="https://ryancloudops.github.io/"><img src="assets/btn-portfolio.svg" height="44" alt="Play my portfolio"/></a>
 </p>
 
 <p align="center"><sub>GAME OVER? NEVER. · © RYANCLOUDOPS</sub></p>
