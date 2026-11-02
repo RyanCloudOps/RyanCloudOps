@@ -16,13 +16,31 @@
 
 ## Hola, soy Gary.
 
-**Systems Engineer** en **Sothis** (PLM, Barcelona). Instalo, migro y opero plataformas **Siemens Teamcenter y Tecnomatix** sobre Windows Server, Active Directory, Tomcat y SQL Server: más de 3 años en producción. Ahora llevo esa base de infraestructura a **Azure, AWS y DevOps**, rumbo a **Cloud Architect**.
+<table>
+<tr>
+<td width="360" valign="top"><img src="assets/card.svg" width="360" alt="Tarjeta ID de Gary Flores: Systems Engineer en Sothis (PLM), Barcelona"></td>
+<td valign="middle">
 
-Estudio Ingeniería Informática en la Universitat Oberta de Catalunya y hablo español, catalán e inglés.
+**Systems Engineer** en **Sothis** (PLM, Barcelona). Opero plataformas **Siemens Teamcenter y Tecnomatix** sobre Windows Server, Active Directory, Tomcat y SQL Server. Ahora llevo esa base a **Azure, AWS y DevOps**, rumbo a **Cloud Architect**.
 
-> *Always learning, always building, always moving forward.*
+> *Mantengo en pie los sistemas de los que dependen equipos de ingeniería. Ahora llevo esa misma fiabilidad a la nube.*
 
-<sub>EN — Systems Engineer at Sothis (PLM). I install, migrate and operate Siemens Teamcenter and Tecnomatix on Windows Server, Active Directory, Tomcat and SQL Server: 3+ years in production. Now taking that infrastructure foundation to Azure, AWS and DevOps, aiming for Cloud Architect. BSc Computer Engineering at UOC. Spanish, Catalan, English.</sub>
+<details>
+<summary>EN</summary>
+
+Systems Engineer at Sothis (PLM, Barcelona). I run Siemens Teamcenter and Tecnomatix on Windows Server, Active Directory, Tomcat and SQL Server, and I'm taking that foundation to Azure, AWS and DevOps, aiming for Cloud Architect.
+
+*I keep the systems that engineering teams depend on running. Now I'm bringing that same reliability to the cloud.*
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="assets/stats.svg" width="720" alt="Más de 3 años en producción, más de 20 tecnologías y 3 idiomas">
+</p>
 
 <p align="center">
   <img src="assets/terminal.svg" width="720" alt="Terminal: $ whoami → gary · systems engineer -> cloud architect. $ kubectl get pods -n career → systems-engineer 1/1 Running · cloud-engineer 0/1 ContainerCreating · cloud-architect 0/1 Pending">
